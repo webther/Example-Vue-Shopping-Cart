@@ -1,7 +1,9 @@
 # Vue Example
 
 > This example uses Vuex to manage the application's states in a shopping cart system.
->
+> * Vue components retrieve/update state from Vuex store, a centralized state management tool.
+> * Dividing the Vuex store into modules. Each module contains its own state, mutations, actions, and getters so it will make your code cleaner.
+> 
 > See a demo at [https://codesandbox.io/s/github/webther/Vue-Example-Shopping-Cart](https://codesandbox.io/s/github/webther/Vue-Example-Shopping-Cart)
 
 ## Build Setup
