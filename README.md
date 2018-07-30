@@ -1,7 +1,8 @@
 # Vue Example
 
 > This example uses Vuex to manage the application's states in a shopping cart system.
-See a demo at [https://codesandbox.io/s/github/webther/Vue-Example-Shopping-Cart](https://codesandbox.io/s/github/webther/Vue-Example-Shopping-Cart)
+>
+> See a demo at [https://codesandbox.io/s/github/webther/Vue-Example-Shopping-Cart](https://codesandbox.io/s/github/webther/Vue-Example-Shopping-Cart)
 
 ## Build Setup
 
