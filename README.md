@@ -4,7 +4,7 @@
 > * Vue components retrieve/update state from Vuex store, a centralized state management tool.
 > * Dividing the Vuex store into modules. Each module contains its own state, mutations, actions, and getters so it will make your code cleaner.
 > 
-> See a demo at [https://codesandbox.io/s/github/webther/Vue-Example-Shopping-Cart](https://codesandbox.io/s/github/webther/Vue-Example-Shopping-Cart)
+> See a demo at [https://codesandbox.io/s/github/webther/Example-Vue-Shopping-Cart](https://codesandbox.io/s/github/webther/Example-Vue-Shopping-Cart)
 
 ## Build Setup
 
